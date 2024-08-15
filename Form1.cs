@@ -30,6 +30,7 @@ namespace FormularioContacto
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Boton para limpiar datos 
             textBoxNombre.Clear();
             textBoxEmail.Clear();
             textBoxMensaje.Clear();
